@@ -1151,7 +1151,7 @@ Mobs/firefly/Name=Firefly
 Mobs/firefly/Description=Oooooh shiny.
 Mobs/firefly/Spawn=There's a bright light in the horizon...
 
-Mobs/beetle_hel/Name=Beetle
+Mobs/beetle_hel/Name=Beetle (Hel)
 Mobs/beetle_hel/Description=Scourge that spawns in the other plane.
 Mobs/beetle_hel/Spawn=You sense ominous vibrations coming from a different realm... (Beet)
 
@@ -1223,10 +1223,10 @@ Mobs/assembler/Description=
 Mobs/barrel/Name=Barrel
 Mobs/barrel/Description=Under no circumstances let this thing spill.<n/>We cannot risk another mutant insect this month.
 
-Mobs/beetle_mummy/Name=Beetle
+Mobs/beetle_mummy/Name=Beetle (Mummy)
 Mobs/beetle_mummy/Description=This one seems like it shouldn't be alive...
 
-Mobs/beetle_pharaoh/Name=Beetle
+Mobs/beetle_pharaoh/Name=Beetle (Phar)
 Mobs/beetle_pharaoh/Description=That thing on its head looks valuable... We should steal it.
 
 Mobs/tomb/Name=Tomb Tomb Tomb Sahur
