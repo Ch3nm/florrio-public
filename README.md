@@ -2,3 +2,7 @@
 makes it so that you don't have to reload every time
 
 ex: pharoah beetle nametag goes from `Beetle` to `Beetle (Phar)`
+
+
+
+you will know it worked if the ready button is a lot larger.
