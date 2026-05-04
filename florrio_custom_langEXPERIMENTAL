@@ -586,7 +586,7 @@ Petal/Attribute/PetalHealthBonus=<c val="{#Colors/health}">Petal Health:</c> +{0
 Petal/Attribute/ReloadPercInc=<c val="{#Colors/generic}">Reload:</c> +{0:perc}%
 Petal/Attribute/RelicAura=<c val="{#Colors/generic}">Affects flowers around you.</c>
 
-Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Mobs/{0:base}/Name}
+Mobs/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Mobs/{0:base}/Name} ({#Mobs/{0}/Name})
 Petals/AnnouncementPrefix={#Rarities/{0:rarity}/ArticleUpper} {#Rarities/{0:rarity}/Name} {#Petals/{0:base}/FullName}
 
 Chat/PetalCraftedUnnamed={#Chat/PetalCraftedUnnamed/{0:rarity}#Chat/PetalCraftedUnnamed/default}
