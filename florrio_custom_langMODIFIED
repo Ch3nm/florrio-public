@@ -1175,7 +1175,7 @@ Mobs/centipede_hel_body/Spawn=You sense ominous vibrations coming from a differe
 
 Mobs/wasp_hel/Name=Wasp (Hel)
 Mobs/wasp_hel/Description=Scourge that spawns in the other plane.
-Mobs/wasp_hel/Spawn=You sense ominous vibrations coming from a different realm...
+Mobs/wasp_hel/Spawn=You sense ominous vibrations coming from a different realm... (Wasp)
 
 Mobs/trader/Name=Trader
 Mobs/trader/Description= 
@@ -1212,9 +1212,9 @@ Mobs/spider_mecha/Name=Mecha Spider
 Mobs/spider_mecha/Description=Mecha Spooky.
 
 Mobs/leafbug_shiny/Name=Leafbug (Golden)
-Mobs/leafbug_shiny/Description=This one has a special color to it...
+Mobs/leafbug_shiny/Description=This one has a special color to it... (AND LITERALLY NEVER DROPS GLEAF)
 
-Mobs/crab_mecha/Name=Crab
+Mobs/crab_mecha/Name=Mecha Crab
 Mobs/crab_mecha/Description=Dr. Crab.
 
 Mobs/assembler/Name=Assembler
